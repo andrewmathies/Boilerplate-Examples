@@ -1,0 +1,7 @@
+1. Wait 30 seconds before pressing enter, verify program doesn't end
+2. Press enter, don't finish quiz within 30 seconds, verify program ends
+3. Press enter, finish quiz within 30 seconds, verify program ends as soon as you answer last question
+4. Verify you can enter anything as an answer and the quiz will continue
+5. Verify only correct integer responses will give you a point (ex. 4.4.4.4 doesn't match with 4)
+6. Verfiy user can use their own valid csv for quiz
+7. Verify user can input desired time and the program works the same
