@@ -4,3 +4,6 @@ While studying computer science at IU I joined the competitive programming team.
 # Gophercises
 Learning how to be a better Go programmer and having fun solving simple challenges.
 https://github.com/gophercises/
+
+# Leetcode
+https://leetcode.com/ has some really good questions
